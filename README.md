@@ -1,2 +1,2 @@
 # Tashi-Lhatze
-BCA First Year Student | CHRIST(deemed to be university) | Skills- HTML,CSS,C++,C programming, SQL |
+BCA First Year Student | CHRIST(deemed to be university) | Currenly Learning - HTML,CSS,C++,C programming,SQL |
